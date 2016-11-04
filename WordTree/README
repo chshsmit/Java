@@ -1,0 +1,21 @@
+//This program uses a binary tree made of queues in order to sort all the words
+//that occur throughout a text file. The output of the program is all the words
+//listed in alphabetical order followed by every line number they occur on.
+
+Files Included:
+README
+Makefile
+auxlib.java
+Queue.java
+Tree.java
+xref.java
+sampletxt.txt
+
+
+//To compile the program type "make all" at the command line
+
+//To run the program regularly type:
+		 "java xref [filename]" 
+//To run the program with debug output, type:
+	 "java xref -d [filename]"
+  

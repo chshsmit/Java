@@ -1,0 +1,19 @@
+//This program finds all the solutions the the n-queens problem.
+//The program will either output the total number of solutions, or
+//both the number of solutions and what they are.
+
+Files Included:
+README
+Queens.java
+
+
+//To compile the program type 'javac Queens.java'
+
+//To get only the number of solutions run by typing:
+     	      'java Queens [n]'  
+	          (n being the number of queens you want to find the solutions for)
+
+
+//To get both the number of solutions and what they are type:
+        'java Queens -v [n]' 
+            (n being the number of queens)

@@ -1,0 +1,10 @@
+//This program prompts the user to give the name of an NBA team and provides
+//them with the contact number for the team.
+
+Files Included:
+TeamSearch.java
+nba.txt
+
+
+// To compile do "javac TeamSearch.java"
+// To run do "java TeamSearch nba.txt"
